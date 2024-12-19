@@ -1,0 +1,2 @@
+4000	drone	four-wheel drone	1	1	1	0	0	1	1	0	0
+4001	weapon	[9x18mm] pistol	1	1	0	0	0	0	0	0	0

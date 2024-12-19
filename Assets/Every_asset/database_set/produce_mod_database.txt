@@ -1,0 +1,9 @@
+1	ammunition	[5.56x45mm] FMJ	40	scrap material	160	scrap ammo	200																	0																
+2	food	boiled potatoe	1	500ml water	1	potatoe	1	scrap food	2															0																
+3	medicine	anti-rad	1	syringe	1	red crystal	2	scrap medicine	2															0																
+4	drone	four-wheel drone	1	scrap material	500	scrap electrical parts	100	wheel	4															60	factory	1														
+5	moudule	factory-lv1	1	scrap material	1000	scrap electrical parts	500																	120																
+6	ammunition	[7.62x39mm] FMJ	40	scrap material	160	scrap ammo	200																	0																
+7	ammunition	[9x18mm] PSO	50	scrap material	100	scrap ammo	100																	0																
+8	gear	[9x18mm] pistol	1	scrap material	9999																			0																
+9	ammunition	[9x18mm] PST	50	scrap material	150	scrap ammo	150	scrap weapon	50															0																

@@ -1,0 +1,10 @@
+Dexterity	0	Clumsiness	0
+Fast Recovery	0	Slow Recovery	0
+High Digestibility	0	Low Digestibility	0
+Light Eater	0	Gourmand	0
+Low Radiation Resistance	0	High Radiation Resistance	0
+Mentalist	0	Tactless	0
+Night Vision	0	Nyctalopia	0
+Optimist	0	Pessimist	0
+Pain Resistance	0	Pain Vulnerability	0
+Sound Sleeper	0	Insomnia	0

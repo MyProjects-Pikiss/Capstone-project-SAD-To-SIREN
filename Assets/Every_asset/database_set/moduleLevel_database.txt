@@ -1,0 +1,11 @@
+ammo producer	0	0	This module is required for crafting bullets	1
+analyzer	0	0	0	2
+antenna	0	0	0	3
+bio printer	0	0	0	4
+biological scanner	0	0	0	5
+engine	1	1	0	6
+factory	0	0	This module is required for the production of high-quality items	7
+garage	1	3	0	8
+kitchen	0	0	0	9
+radiation treatment system	0	0	0	10
+storage	1	2	0	11

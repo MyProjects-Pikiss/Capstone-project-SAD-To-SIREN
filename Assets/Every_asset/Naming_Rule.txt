@@ -1,0 +1,14 @@
+Name_type1_type2_type3...
+ex)Setting_icon_script_s
+
+버튼: btn
+같은 타입 다수: s
+집합: set
+아이콘: icon
+캔버스: canv
+스크립트: script
+관리, 메인기능: manager
+클릭이벤트: clicked
+차량: car
+모듈: modu
+데이터베이스: database

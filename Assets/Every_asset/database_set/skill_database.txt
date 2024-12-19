@@ -1,0 +1,6 @@
+4000	move	1	0	0	0	0	move	0	0	
+4001	single shot(x1)	2	5	1	99	90	attack	-5	6	[9x18mm] pistol
+4001	reload	1	0	0	0	0	buff	0	0	[9x18mm] pistol
+10000	move	1	0	0	0	0	move	0	0	
+10000	scratch	2	1	0	95	95	attack	25	5	
+10000	bite	3	1	0	92	92	attack	40	8	

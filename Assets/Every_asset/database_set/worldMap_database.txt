@@ -1,0 +1,33 @@
+1	9	1	forest	animal	0	2	0	2	1	1	0
+2	9	2	open field	animal	0	1	0	0	1	0	0
+3	9	3	road	animal	human	2	1	1	2	0	1
+4	9	4	lake	animal	0	2	0	2	1	1	1
+5	8	1	forest	animal	0	2	0	2	1	1	0
+6	8	2	open field	animal	0	1	0	0	1	0	0
+7	8	3	road	animal	human	2	1	1	2	0	1
+8	8	4	lake	animal	0	2	0	2	1	1	1
+9	7	1	forest	animal	0	2	0	2	1	1	0
+10	7	5	factory	human	0	4	2	1	4	2	3
+11	7	3	road	animal	human	2	1	1	2	0	1
+12	7	4	lake	animal	0	2	0	2	1	1	1
+13	6	8	suburb	animal	human	5	3	5	5	3	4
+14	6	5	factory	human	0	4	2	1	4	2	3
+15	6	6	pharmacy	human	0	3	5	1	3	1	2
+16	6	7	subway	human	0	4	3	4	5	3	4
+17	5	8	suburb	animal	human	5	3	5	5	3	4
+18	5	5	factory	human	0	4	2	1	4	2	3
+19	5	6	pharmacy	human	0	3	5	1	3	1	2
+20	5	7	subway	human	0	4	3	4	5	3	4
+21	4	9	laboratory	human	machine	5	2	2	4	5	5
+22	4	7	subway	human	0	4	3	4	5	3	4
+23	4	10	village	animal	human	7	4	5	6	4	5
+24	4	11	department Store	animal	human	7	5	7	7	5	6
+25	3	9	laboratory	human	machine	5	2	2	4	5	5
+26	3	10	village	animal	human	7	4	5	6	4	5
+27	3	11	department Store	animal	human	7	5	7	7	5	6
+28	3	13	military facilities	human	machine	8	6	6	5	5	6
+29	2	12	radioactive treatment facility	human	machine	6	2	4	6	7	7
+30	2	14	artifact research institute	machine	0	8	3	4	5	8	8
+31	2	13	military facilities	human	machine	8	6	6	5	5	6
+32	1	15	defensive wall	wall	0	9	0	0	0	0	10
+33	0	16	radioactive power plant	boss	0	10	4	2	10	10	10

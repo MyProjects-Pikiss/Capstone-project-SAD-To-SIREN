@@ -1,0 +1,7 @@
+scrap electrical parts	600
+scrap material	1700
+wheel	4
+500ml water	5
+[9x18mm] pistol	1
+scrap ammo	200
+[9x18mm] PSO	50
