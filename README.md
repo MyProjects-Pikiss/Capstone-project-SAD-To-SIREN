@@ -2,7 +2,7 @@
 
 ## Overview
 Unity 기반 2D 로그라이크 생존 게임입니다.  
-핵심 시스템을 직접 구현하여 early access 직전 수준까지 개발했습니다.
+핵심 시스템을 직접 구현하여 early access 80% 수준까지 개발했습니다.
 
 ## Features
 - 아이템 제작 및 인벤토리 시스템
