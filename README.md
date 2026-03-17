@@ -11,8 +11,6 @@ Unity 기반 2D 로그라이크 생존 게임입니다.
 4. 캐릭터 및 유닛 강화
 5. 다음 탐사 진행
 
----
-
 ## Core Systems
 
 ### Inventory & Crafting
@@ -35,16 +33,11 @@ Unity 기반 2D 로그라이크 생존 게임입니다.
 - 랜덤 맵 생성
 - 랜덤 루팅 시스템
 
----
-
 ## Pathfinding
 - A* 알고리즘 기반 유닛 이동 구현
 - 육각형 타일 구조에 맞게 경로 탐색 로직 적용
-
----
 
 ## Tech Stack
 - Unity
 - C#
 - Stable Diffusion (게임 리소스 생성)
----
